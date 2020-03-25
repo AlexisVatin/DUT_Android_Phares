@@ -63,7 +63,7 @@ public class DummyContent {
      * A dummy item representing a piece of content.
      */
     public static class DummyItem {
-
+//        public final String id;
         public final String name;
 //        public final String filename;
         public final String region;
@@ -86,6 +86,8 @@ public class DummyContent {
             this.name = name;
             this.region = region;
             this.construction = construction;
+//            this.id = id;
+
         }
 
         @Override
