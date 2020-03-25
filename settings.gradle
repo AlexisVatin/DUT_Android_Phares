@@ -1,0 +1,2 @@
+rootProject.name='Phares'
+include ':app'

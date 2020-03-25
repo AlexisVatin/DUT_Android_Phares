@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phares</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alexis Vatin</string>
+    <string name="nav_header_subtitle">alexis.vatin@etu.univ-amu.fr</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">List</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="text_view">Text View</string>
+    <string name="home_second">Home Second</string>
+    <string name="alexis_vatin">Alexis Vatin</string>
+    <string name="alexis_vatin_etu_univ_amu_fr">alexis.vatin@etu.univ-amu.fr</string>
+</resources>
